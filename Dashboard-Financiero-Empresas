@@ -1,0 +1,28 @@
+Dashboard de Indicadores Financieros para Empresas
+Objetivo
+
+Diseñar una herramienta de análisis financiero que permita monitorear los principales indicadores económicos y facilitar la toma de decisiones estratégicas dentro de una organización.
+
+Descripción
+
+Proyecto de Business Intelligence enfocado en la construcción de indicadores financieros para evaluar el desempeño empresarial. El dashboard integra métricas relacionadas con rentabilidad, liquidez, ingresos, gastos y flujo de caja, proporcionando una visión ejecutiva del estado financiero del negocio.
+
+KPIs Analizados
+Ingresos Totales
+Gastos Operativos
+Utilidad Neta
+Margen de Rentabilidad
+Liquidez
+Flujo de Caja
+Crecimiento de Ingresos
+Variación de Gastos
+EBITDA (si decides incluirlo)
+Principales Funcionalidades
+Seguimiento de la salud financiera de la empresa.
+Monitoreo de indicadores clave de desempeño (KPIs).
+Comparación de resultados por período.
+Detección de tendencias y desviaciones.
+Reportes ejecutivos orientados a la toma de decisiones.
+Herramientas
+
+Power BI | Excel | DAX | Power Query | Data Modeling

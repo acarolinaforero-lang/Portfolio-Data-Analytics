@@ -1,0 +1,26 @@
+Dashboard de Finanzas Personales
+Objetivo
+
+Desarrollar una solución de Business Intelligence para analizar ingresos, gastos, ahorro y flujo de efectivo, facilitando el seguimiento financiero y la toma de decisiones basada en datos.
+
+Descripción
+
+Diseñé un dashboard interactivo en Power BI para consolidar y visualizar información financiera personal. El proyecto permite monitorear hábitos de gasto, identificar categorías con mayor impacto en el presupuesto y analizar la evolución mensual de ingresos y egresos.
+
+KPIs Analizados
+Ingresos Totales
+Gastos Totales
+Ahorro Neto
+Tasa de Ahorro
+Flujo de Caja
+Distribución de Gastos por Categoría
+Evolución Mensual de Ingresos y Gastos
+Principales Funcionalidades
+Segmentación por período.
+Análisis de tendencias financieras.
+Comparación entre ingresos y gastos.
+Visualización de categorías de consumo.
+Seguimiento de capacidad de ahorro.
+Herramientas
+
+Power BI | Excel | Power Query | DAX
